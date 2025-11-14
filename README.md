@@ -27,3 +27,14 @@ Auditable outputs: Shows which documents were used for each answer, improving de
 Cost savings: No need to retrain massive AI models, making it much cheaper to maintain and evolve.​
 
 A Python-powered open-source RAG system is a robust foundation for building knowledge-centric AI features—helpful in education, search, internal knowledge bases, support bots, and more.
+
+# Recommended Technologies List
+
+Python 3.x (core language/environment)
+pip (Python package manager for installing RAG frameworks)
+Docker (for optional container deployment)
+LlamaIndex, Haystack, RAGFlow, FlashRAG (RAG frameworks)
+Milvus (vector DB, optional)
+MoinMoin, LocalWiki, Zim (wiki/documentation)
+Git (version control for both code and wiki)
+Optional: Node.js (if using Wiki.js)
