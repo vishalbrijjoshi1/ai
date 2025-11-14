@@ -31,10 +31,17 @@ A Python-powered open-source RAG system is a robust foundation for building know
 # Recommended Technologies List
 
 Python 3.x (core language/environment)
+
 pip (Python package manager for installing RAG frameworks)
+
 Docker (for optional container deployment)
+
 LlamaIndex, Haystack, RAGFlow, FlashRAG (RAG frameworks)
+
 Milvus (vector DB, optional)
+
 MoinMoin, LocalWiki, Zim (wiki/documentation)
+
 Git (version control for both code and wiki)
+
 Optional: Node.js (if using Wiki.js)
